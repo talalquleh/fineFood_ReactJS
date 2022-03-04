@@ -2,8 +2,8 @@
 a simple resturant webstie using ReactJs.
 
 <h2>How to run</h2>
-you can run it on your local machine.
-first, run run :
-<bold>npm install </bold>
-and then:
-<bold>npm start</bold>
+<p>you can run it on your local machine.</p>
+<p>first, run run</p> :
+<p>npm install </p>
+<p>and then</p>:
+<p>npm start</p>
